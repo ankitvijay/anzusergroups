@@ -33,6 +33,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Brisbane AI](https://www.meetup.com/Brisbane-AI-User-Group/) | Online, AU/QLD | Monthly  | Zoom/StreamYard |
 | [Brisbane Microsoft 365 Meetup](https://www.365community.org/) | AU/QLD | Last Wednesday of every month  | Microsoft |
 | [Brisbane Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
+| [Sunshine Coast Infrastructure User Group](http://www.bigau.org/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane Infrastructure DevOps User Group](https://www.meetup.com/Brisbane-PowerShell-User-Group/) | AU/QLD | Monthly | Hudson Technology/Online |
 | [Brisbane Azure User Group](https://www.meetup.com/Brisbane-Azure-User-Group/) | AU/QLD | 2nd Wednesday of every month | Microsoft |
 | [Brisbane Umbraco Unicorns Group](https://www.meetup.com/BUUG-Brisbane-Umbraco-Unicorns-Group/) | AU/QLD | ad-hoc | ZeroSeven Offices |
@@ -42,6 +43,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [QLD Power BI User Group](https://www.meetup.com/Queensland-Power-BI-User-Group/) | AU/QLD | Monthly | Microsoft |
 | [Brisbane Dynamics 365 User Group](https://www.meetup.com/bned365ug) | AU/QLD | Monthly | CBD/Online |
 | [Brisbane Power Apps & Power Automate User Group](https://www.meetup.com/Brisbane-PowerApps-Flow-User-Group) | AU/QLD | Monthly | CBD/Online |
+| [Sunshine Coast Azure User Group](https://www.meetup.com/sunshine-coast-azure-user-group/) | AU/QLD | Monthly | Sunshine Coast/Online |
 | [Gold Coast Dynamics 365 & Power Platform User Group](https://www.meetup.com/Gold-Coast-Power-Platform-User-Group) | AU/QLD | Monthly | Arundale/Online |
 | [Adelaide .NET User Group](https://www.meetup.com/Adelaide-dotNET/) | AU/SA | Monthly | UniSA City West Campus |
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
